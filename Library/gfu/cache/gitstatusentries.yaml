@@ -1,0 +1,2688 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-03-05T19:14:30.217-08:00
+  initializedAtString: 2019-03-05T19:12:08.860-08:00
+  entries:
+  - path: .vs\NOLF Fever Dream\v15\.suo
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.vs\NOLF Fever Dream\v15\.suo
+    projectPath: .vs\NOLF Fever Dream\v15\.suo
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\NOLF Fever Dream\v15\Server\sqlite3\db.lock
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.vs\NOLF Fever Dream\v15\Server\sqlite3\db.lock
+    projectPath: .vs\NOLF Fever Dream\v15\Server\sqlite3\db.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide-shm
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide-wal
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\.vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\NOLF Fever Dream\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assembly-CSharp.csproj
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\3D Models\Ammo.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Ammo.prefab
+    projectPath: Assets\3D Models\Ammo.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\3D Models\Ammo.prefab.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Ammo.prefab.meta
+    projectPath: Assets\3D Models\Ammo.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\3D Models\Bullet.fbx
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Bullet.fbx
+    projectPath: Assets\3D Models\Bullet.fbx
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\3D Models\Bullet.fbx.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Bullet.fbx.meta
+    projectPath: Assets\3D Models\Bullet.fbx.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\3D Models\Guns\Fire.anim
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\Fire.anim
+    projectPath: Assets\3D Models\Guns\Fire.anim
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\3D Models\Guns\MPL.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MPL.prefab
+    projectPath: Assets\3D Models\Guns\MPL.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\3D Models\Guns\MPLAnimator.controller
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\MPLAnimator.controller
+    projectPath: Assets\3D Models\Guns\MPLAnimator.controller
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\3D Models\Guns\TriggerBack.anim
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\TriggerBack.anim
+    projectPath: Assets\3D Models\Guns\TriggerBack.anim
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\3D Models\Guns\TriggerBack.anim.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\TriggerBack.anim.meta
+    projectPath: Assets\3D Models\Guns\TriggerBack.anim.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\3D Models\Guns\TriggerForward.anim
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\TriggerForward.anim
+    projectPath: Assets\3D Models\Guns\TriggerForward.anim
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\3D Models\Guns\TriggerForward.anim.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Guns\TriggerForward.anim.meta
+    projectPath: Assets\3D Models\Guns\TriggerForward.anim.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\3D Models\Hands.controller
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Hands.controller
+    projectPath: Assets\3D Models\Hands.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\Hands.controller.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Hands.controller.meta
+    projectPath: Assets\3D Models\Hands.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\Hands.fbx
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Hands.fbx
+    projectPath: Assets\3D Models\Hands.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\Hands.fbx.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Hands.fbx.meta
+    projectPath: Assets\3D Models\Hands.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\MuzzleFlare Long.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\MuzzleFlare Long.prefab
+    projectPath: Assets\3D Models\MuzzleFlare Long.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\MuzzleFlare Long.prefab.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\MuzzleFlare Long.prefab.meta
+    projectPath: Assets\3D Models\MuzzleFlare Long.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\MuzzleFlare.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\MuzzleFlare.prefab
+    projectPath: Assets\3D Models\MuzzleFlare.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\3D Models\Player.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Player.prefab
+    projectPath: Assets\3D Models\Player.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\3D Models\ShootingHouse.fbx
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\ShootingHouse.fbx
+    projectPath: Assets\3D Models\ShootingHouse.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\ShootingHouse.fbx.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\ShootingHouse.fbx.meta
+    projectPath: Assets\3D Models\ShootingHouse.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\Shutter.fbx
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Shutter.fbx
+    projectPath: Assets\3D Models\Shutter.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\Shutter.fbx.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Shutter.fbx.meta
+    projectPath: Assets\3D Models\Shutter.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\Test\Arms.controller
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Test\Arms.controller
+    projectPath: Assets\3D Models\Test\Arms.controller
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\3D Models\Trashcan.fbx
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Trashcan.fbx
+    projectPath: Assets\3D Models\Trashcan.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\3D Models\Trashcan.fbx.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\3D Models\Trashcan.fbx.meta
+    projectPath: Assets\3D Models\Trashcan.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\CameraController.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\CameraController.cs
+    projectPath: Assets\CameraController.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\CameraController.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\CameraController.cs.meta
+    projectPath: Assets\CameraController.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\ChangeMaterial.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\ChangeMaterial.cs
+    projectPath: Assets\ChangeMaterial.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\ChangeMaterial.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\ChangeMaterial.cs.meta
+    projectPath: Assets\ChangeMaterial.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\DisableSelf.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\DisableSelf.cs
+    projectPath: Assets\DisableSelf.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\DisableSelf.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\DisableSelf.cs.meta
+    projectPath: Assets\DisableSelf.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\GiveAmmo.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\GiveAmmo.cs
+    projectPath: Assets\GiveAmmo.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\GiveAmmo.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\GiveAmmo.cs.meta
+    projectPath: Assets\GiveAmmo.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Hands.controller
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Hands.controller
+    projectPath: Assets\Hands.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Hands.controller.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Hands.controller.meta
+    projectPath: Assets\Hands.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Ammo.controller
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Ammo.controller
+    projectPath: Assets\Materials\Ammo.controller
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Materials\Blue.mat
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Blue.mat
+    projectPath: Assets\Materials\Blue.mat
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Materials\Blue.mat.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Blue.mat.meta
+    projectPath: Assets\Materials\Blue.mat.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Materials\Guns\Materials\MuzzleFlareForward.mat
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\Materials\MuzzleFlareForward.mat
+    projectPath: Assets\Materials\Guns\Materials\MuzzleFlareForward.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Guns\Materials\MuzzleFlareForward.mat.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\Materials\MuzzleFlareForward.mat.meta
+    projectPath: Assets\Materials\Guns\Materials\MuzzleFlareForward.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Guns\MuzzleFlareForward.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlareForward.png
+    projectPath: Assets\Materials\Guns\MuzzleFlareForward.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Guns\MuzzleFlareForward.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlareForward.png.meta
+    projectPath: Assets\Materials\Guns\MuzzleFlareForward.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Guns\MuzzleFlareLong.mat
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlareLong.mat
+    projectPath: Assets\Materials\Guns\MuzzleFlareLong.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Guns\MuzzleFlareLong.mat.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Guns\MuzzleFlareLong.mat.meta
+    projectPath: Assets\Materials\Guns\MuzzleFlareLong.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Particles\Dust.mat
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\Dust.mat
+    projectPath: Assets\Materials\Particles\Dust.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Materials\Particles\Dust.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\Dust.png
+    projectPath: Assets\Materials\Particles\Dust.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Particles\Dust.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\Dust.png.meta
+    projectPath: Assets\Materials\Particles\Dust.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\Particles\Dust.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\Dust.prefab
+    projectPath: Assets\Materials\Particles\Dust.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Materials\Particles\ParticleSpawner.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\Particles\ParticleSpawner.prefab
+    projectPath: Assets\Materials\Particles\ParticleSpawner.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Materials\PlaceHolderLightBlue.mat
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\PlaceHolderLightBlue.mat
+    projectPath: Assets\Materials\PlaceHolderLightBlue.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Materials\PlaceHolderLightBlue.mat.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Materials\PlaceHolderLightBlue.mat.meta
+    projectPath: Assets\Materials\PlaceHolderLightBlue.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Monster.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Monster.cs
+    projectPath: Assets\Monster.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Monster.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Monster.cs.meta
+    projectPath: Assets\Monster.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\OpenDoor.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\OpenDoor.cs
+    projectPath: Assets\OpenDoor.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\OpenDoor.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\OpenDoor.cs.meta
+    projectPath: Assets\OpenDoor.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\PlayerController.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\PlayerController.cs
+    projectPath: Assets\PlayerController.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\PlayerController.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\PlayerController.cs.meta
+    projectPath: Assets\PlayerController.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Prefabs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\BulletHole.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Prefabs\BulletHole.prefab
+    projectPath: Assets\Prefabs\BulletHole.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\BulletHole.prefab.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Prefabs\BulletHole.prefab.meta
+    projectPath: Assets\Prefabs\BulletHole.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Shutter (1).prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Prefabs\Shutter (1).prefab
+    projectPath: Assets\Prefabs\Shutter (1).prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Shutter (1).prefab.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Prefabs\Shutter (1).prefab.meta
+    projectPath: Assets\Prefabs\Shutter (1).prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Trashcan.prefab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Prefabs\Trashcan.prefab
+    projectPath: Assets\Prefabs\Trashcan.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Trashcan.prefab.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Prefabs\Trashcan.prefab.meta
+    projectPath: Assets\Prefabs\Trashcan.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Run targets.anim
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Run targets.anim
+    projectPath: Assets\Run targets.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Run targets.anim.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Run targets.anim.meta
+    projectPath: Assets\Run targets.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\CameraController.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\CameraController.cs
+    projectPath: Assets\Scripts\CameraController.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\CameraController.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\CameraController.cs.meta
+    projectPath: Assets\Scripts\CameraController.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\ChangeMaterial.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\ChangeMaterial.cs
+    projectPath: Assets\Scripts\ChangeMaterial.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\ChangeMaterial.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\ChangeMaterial.cs.meta
+    projectPath: Assets\Scripts\ChangeMaterial.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\DisableSelf.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\DisableSelf.cs
+    projectPath: Assets\Scripts\DisableSelf.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\DisableSelf.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\DisableSelf.cs.meta
+    projectPath: Assets\Scripts\DisableSelf.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\GiveAmmo.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\GiveAmmo.cs
+    projectPath: Assets\Scripts\GiveAmmo.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\GiveAmmo.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\GiveAmmo.cs.meta
+    projectPath: Assets\Scripts\GiveAmmo.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Monster.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\Monster.cs
+    projectPath: Assets\Scripts\Monster.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Monster.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\Monster.cs.meta
+    projectPath: Assets\Scripts\Monster.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\OpenDoor.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\OpenDoor.cs
+    projectPath: Assets\Scripts\OpenDoor.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\OpenDoor.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\OpenDoor.cs.meta
+    projectPath: Assets\Scripts\OpenDoor.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\PlayerController.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\PlayerController.cs
+    projectPath: Assets\Scripts\PlayerController.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\PlayerController.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\PlayerController.cs.meta
+    projectPath: Assets\Scripts\PlayerController.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Pressable.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\Pressable.cs
+    projectPath: Assets\Scripts\Pressable.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Pressable.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\Pressable.cs.meta
+    projectPath: Assets\Scripts\Pressable.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\ResetTargets.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\ResetTargets.cs
+    projectPath: Assets\Scripts\ResetTargets.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\ResetTargets.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\ResetTargets.cs.meta
+    projectPath: Assets\Scripts\ResetTargets.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\SelfDestruct.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\SelfDestruct.cs
+    projectPath: Assets\Scripts\SelfDestruct.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\SelfDestruct.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\SelfDestruct.cs.meta
+    projectPath: Assets\Scripts\SelfDestruct.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\ShootingRangeButton.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\ShootingRangeButton.cs
+    projectPath: Assets\Scripts\ShootingRangeButton.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\ShootingRangeButton.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\ShootingRangeButton.cs.meta
+    projectPath: Assets\Scripts\ShootingRangeButton.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\SoundSystem.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\SoundSystem.cs
+    projectPath: Assets\Scripts\SoundSystem.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\SoundSystem.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\SoundSystem.cs.meta
+    projectPath: Assets\Scripts\SoundSystem.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\TargetHit.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\TargetHit.cs
+    projectPath: Assets\Scripts\TargetHit.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\TargetHit.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Scripts\TargetHit.cs.meta
+    projectPath: Assets\Scripts\TargetHit.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\SelfDestruct.cs
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\SelfDestruct.cs
+    projectPath: Assets\SelfDestruct.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\SelfDestruct.cs.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\SelfDestruct.cs.meta
+    projectPath: Assets\SelfDestruct.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Sounds\BUTTON.WAV
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\BUTTON.WAV
+    projectPath: Assets\Sounds\BUTTON.WAV
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\BUTTON.WAV.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\BUTTON.WAV.meta
+    projectPath: Assets\Sounds\BUTTON.WAV.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\TARGETCLOSE.WAV
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\TARGETCLOSE.WAV
+    projectPath: Assets\Sounds\TARGETCLOSE.WAV
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\TARGETCLOSE.WAV.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\TARGETCLOSE.WAV.meta
+    projectPath: Assets\Sounds\TARGETCLOSE.WAV.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\TARGETOPEN.WAV
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\TARGETOPEN.WAV
+    projectPath: Assets\Sounds\TARGETOPEN.WAV
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\TARGETOPEN.WAV.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\TARGETOPEN.WAV.meta
+    projectPath: Assets\Sounds\TARGETOPEN.WAV.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\TARGTDONEBELL.WAV
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\TARGTDONEBELL.WAV
+    projectPath: Assets\Sounds\TARGTDONEBELL.WAV
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\TARGTDONEBELL.WAV.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\TARGTDONEBELL.WAV.meta
+    projectPath: Assets\Sounds\TARGTDONEBELL.WAV.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\TARGTHITBZZ.WAV
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\TARGTHITBZZ.WAV
+    projectPath: Assets\Sounds\TARGTHITBZZ.WAV
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\TARGTHITBZZ.WAV.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\TARGTHITBZZ.WAV.meta
+    projectPath: Assets\Sounds\TARGTHITBZZ.WAV.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\WaltherMPL\WaltherRELOAD1.WAV
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\WaltherRELOAD1.WAV
+    projectPath: Assets\Sounds\WaltherMPL\WaltherRELOAD1.WAV
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\WaltherMPL\WaltherRELOAD1.WAV.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\WaltherRELOAD1.WAV.meta
+    projectPath: Assets\Sounds\WaltherMPL\WaltherRELOAD1.WAV.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\WaltherMPL\WaltherRELOAD2.WAV
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\WaltherRELOAD2.WAV
+    projectPath: Assets\Sounds\WaltherMPL\WaltherRELOAD2.WAV
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\WaltherMPL\WaltherRELOAD2.WAV.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\WaltherRELOAD2.WAV.meta
+    projectPath: Assets\Sounds\WaltherMPL\WaltherRELOAD2.WAV.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\WaltherMPL\WaltherRELOAD3.WAV
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\WaltherRELOAD3.WAV
+    projectPath: Assets\Sounds\WaltherMPL\WaltherRELOAD3.WAV
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\WaltherMPL\WaltherRELOAD3.WAV.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sounds\WaltherMPL\WaltherRELOAD3.WAV.meta
+    projectPath: Assets\Sounds\WaltherMPL\WaltherRELOAD3.WAV.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites.meta
+    projectPath: Assets\Sprites.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\BulletIcon.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\BulletIcon.png
+    projectPath: Assets\Sprites\BulletIcon.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\BulletIcon.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\BulletIcon.png.meta
+    projectPath: Assets\Sprites\BulletIcon.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors.meta
+    projectPath: Assets\Sprites\Cursors.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Cursor1.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Cursor1.png
+    projectPath: Assets\Sprites\Cursors\Cursor1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Cursor1.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Cursor1.png.meta
+    projectPath: Assets\Sprites\Cursors\Cursor1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Cursor2.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Cursor2.png
+    projectPath: Assets\Sprites\Cursors\Cursor2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Cursor2.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Cursor2.png.meta
+    projectPath: Assets\Sprites\Cursors\Cursor2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Cursor3.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Cursor3.png
+    projectPath: Assets\Sprites\Cursors\Cursor3.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Cursor3.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Cursor3.png.meta
+    projectPath: Assets\Sprites\Cursors\Cursor3.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Cursor4.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Cursor4.png
+    projectPath: Assets\Sprites\Cursors\Cursor4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Cursor4.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Cursor4.png.meta
+    projectPath: Assets\Sprites\Cursors\Cursor4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Interact Cursor.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Interact Cursor.png
+    projectPath: Assets\Sprites\Cursors\Interact Cursor.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Interact Cursor.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Interact Cursor.png.meta
+    projectPath: Assets\Sprites\Cursors\Interact Cursor.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Normal Cursor.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Normal Cursor.png
+    projectPath: Assets\Sprites\Cursors\Normal Cursor.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Cursors\Normal Cursor.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Cursors\Normal Cursor.png.meta
+    projectPath: Assets\Sprites\Cursors\Normal Cursor.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Materials.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Materials.meta
+    projectPath: Assets\Sprites\Materials.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Materials\WoodHole1.mat
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Materials\WoodHole1.mat
+    projectPath: Assets\Sprites\Materials\WoodHole1.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Materials\WoodHole1.mat.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\Materials\WoodHole1.mat.meta
+    projectPath: Assets\Sprites\Materials\WoodHole1.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\WoodHole1.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\WoodHole1.png
+    projectPath: Assets\Sprites\WoodHole1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\WoodHole1.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\WoodHole1.png.meta
+    projectPath: Assets\Sprites\WoodHole1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\WoodHoleNormal1.png
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\WoodHoleNormal1.png
+    projectPath: Assets\Sprites\WoodHoleNormal1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\WoodHoleNormal1.png.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\Sprites\WoodHoleNormal1.png.meta
+    projectPath: Assets\Sprites\WoodHoleNormal1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\TargetController.controller
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\TargetController.controller
+    projectPath: Assets\TargetController.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\TargetController.controller.meta
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Assets\TargetController.controller.meta
+    projectPath: Assets\TargetController.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\expandedItems
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\002fdc1e793c1f0489977081dd75f1b7
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\00\002fdc1e793c1f0489977081dd75f1b7
+    projectPath: Library\metadata\00\002fdc1e793c1f0489977081dd75f1b7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\00\002fdc1e793c1f0489977081dd75f1b7.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\00\002fdc1e793c1f0489977081dd75f1b7.info
+    projectPath: Library\metadata\00\002fdc1e793c1f0489977081dd75f1b7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\04\0448d1ab8ce26ec43b3798aa6bc98a19
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\04\0448d1ab8ce26ec43b3798aa6bc98a19
+    projectPath: Library\metadata\04\0448d1ab8ce26ec43b3798aa6bc98a19
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\04\0448d1ab8ce26ec43b3798aa6bc98a19.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\04\0448d1ab8ce26ec43b3798aa6bc98a19.info
+    projectPath: Library\metadata\04\0448d1ab8ce26ec43b3798aa6bc98a19.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\04\04fe101507d80f3469f92cef8a7847ab
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\04\04fe101507d80f3469f92cef8a7847ab
+    projectPath: Library\metadata\04\04fe101507d80f3469f92cef8a7847ab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\04\04fe101507d80f3469f92cef8a7847ab.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\04\04fe101507d80f3469f92cef8a7847ab.info
+    projectPath: Library\metadata\04\04fe101507d80f3469f92cef8a7847ab.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\05\05a16d3addcdb7c40b07e809575e43a4
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\05\05a16d3addcdb7c40b07e809575e43a4
+    projectPath: Library\metadata\05\05a16d3addcdb7c40b07e809575e43a4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\05\05a16d3addcdb7c40b07e809575e43a4.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\05\05a16d3addcdb7c40b07e809575e43a4.info
+    projectPath: Library\metadata\05\05a16d3addcdb7c40b07e809575e43a4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\05\05f40fced6ffd814eaa2ce3a226ca60c
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\05\05f40fced6ffd814eaa2ce3a226ca60c
+    projectPath: Library\metadata\05\05f40fced6ffd814eaa2ce3a226ca60c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    projectPath: Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    projectPath: Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5
+    projectPath: Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5.info
+    projectPath: Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5.resource
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5.resource
+    projectPath: Library\metadata\0b\0b5f881f9ce52284e825304eee7aede5.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\0f\0f16435cb004a1b49adc3b027f9a63c0
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\0f\0f16435cb004a1b49adc3b027f9a63c0
+    projectPath: Library\metadata\0f\0f16435cb004a1b49adc3b027f9a63c0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\0f\0f16435cb004a1b49adc3b027f9a63c0.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\0f\0f16435cb004a1b49adc3b027f9a63c0.info
+    projectPath: Library\metadata\0f\0f16435cb004a1b49adc3b027f9a63c0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\1e\1e98349a6555b12408062c9e253167e6
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\1e\1e98349a6555b12408062c9e253167e6
+    projectPath: Library\metadata\1e\1e98349a6555b12408062c9e253167e6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\1e\1e98349a6555b12408062c9e253167e6.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\1e\1e98349a6555b12408062c9e253167e6.info
+    projectPath: Library\metadata\1e\1e98349a6555b12408062c9e253167e6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\1f\1f8b2cfee5a0b3d429a89056355906ee
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\1f\1f8b2cfee5a0b3d429a89056355906ee
+    projectPath: Library\metadata\1f\1f8b2cfee5a0b3d429a89056355906ee
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\21\21c2ba1410cb53241a0b3cee0241e750
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\21\21c2ba1410cb53241a0b3cee0241e750
+    projectPath: Library\metadata\21\21c2ba1410cb53241a0b3cee0241e750
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\21\21c2ba1410cb53241a0b3cee0241e750.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\21\21c2ba1410cb53241a0b3cee0241e750.info
+    projectPath: Library\metadata\21\21c2ba1410cb53241a0b3cee0241e750.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\22\22447ac74f2d00849bfa556ef132e030
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\22\22447ac74f2d00849bfa556ef132e030
+    projectPath: Library\metadata\22\22447ac74f2d00849bfa556ef132e030
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\22\22447ac74f2d00849bfa556ef132e030.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\22\22447ac74f2d00849bfa556ef132e030.info
+    projectPath: Library\metadata\22\22447ac74f2d00849bfa556ef132e030.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23f61ecf94ca4eb4c8adb89abf079d4c
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\23\23f61ecf94ca4eb4c8adb89abf079d4c
+    projectPath: Library\metadata\23\23f61ecf94ca4eb4c8adb89abf079d4c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23f61ecf94ca4eb4c8adb89abf079d4c.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\23\23f61ecf94ca4eb4c8adb89abf079d4c.info
+    projectPath: Library\metadata\23\23f61ecf94ca4eb4c8adb89abf079d4c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769
+    projectPath: Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769.info
+    projectPath: Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769.resource
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769.resource
+    projectPath: Library\metadata\27\2709dccc4b6d2a243b23c0bf84ba4769.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2b\2b4208803f8274043a287e943a1916ba
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\2b\2b4208803f8274043a287e943a1916ba
+    projectPath: Library\metadata\2b\2b4208803f8274043a287e943a1916ba
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2b\2b4208803f8274043a287e943a1916ba.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\2b\2b4208803f8274043a287e943a1916ba.info
+    projectPath: Library\metadata\2b\2b4208803f8274043a287e943a1916ba.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2b\2b7b582158515c943b915d843e045997
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\2b\2b7b582158515c943b915d843e045997
+    projectPath: Library\metadata\2b\2b7b582158515c943b915d843e045997
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2b\2b7b582158515c943b915d843e045997.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\2b\2b7b582158515c943b915d843e045997.info
+    projectPath: Library\metadata\2b\2b7b582158515c943b915d843e045997.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\37\371ea4b0a0f441440acec039540ab36f.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\37\371ea4b0a0f441440acec039540ab36f.info
+    projectPath: Library\metadata\37\371ea4b0a0f441440acec039540ab36f.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\39\39d9c24c17b628e41a7db3d77d22578c
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\39\39d9c24c17b628e41a7db3d77d22578c
+    projectPath: Library\metadata\39\39d9c24c17b628e41a7db3d77d22578c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\39\39d9c24c17b628e41a7db3d77d22578c.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\39\39d9c24c17b628e41a7db3d77d22578c.info
+    projectPath: Library\metadata\39\39d9c24c17b628e41a7db3d77d22578c.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3f\3fa0a4429d529ce40a851288de587650
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\3f\3fa0a4429d529ce40a851288de587650
+    projectPath: Library\metadata\3f\3fa0a4429d529ce40a851288de587650
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\3f\3fa0a4429d529ce40a851288de587650.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\3f\3fa0a4429d529ce40a851288de587650.info
+    projectPath: Library\metadata\3f\3fa0a4429d529ce40a851288de587650.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\43\43794ce8960fa21439134e208c0c1b6e
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\43\43794ce8960fa21439134e208c0c1b6e
+    projectPath: Library\metadata\43\43794ce8960fa21439134e208c0c1b6e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\43\43794ce8960fa21439134e208c0c1b6e.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\43\43794ce8960fa21439134e208c0c1b6e.info
+    projectPath: Library\metadata\43\43794ce8960fa21439134e208c0c1b6e.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\47\47ce476be8563b3438bb171e023c7c17
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\47\47ce476be8563b3438bb171e023c7c17
+    projectPath: Library\metadata\47\47ce476be8563b3438bb171e023c7c17
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\47\47ce476be8563b3438bb171e023c7c17.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\47\47ce476be8563b3438bb171e023c7c17.info
+    projectPath: Library\metadata\47\47ce476be8563b3438bb171e023c7c17.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\4f\4f67422f7a2f9294e8478914444d5e99
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\4f\4f67422f7a2f9294e8478914444d5e99
+    projectPath: Library\metadata\4f\4f67422f7a2f9294e8478914444d5e99
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\4f\4f67422f7a2f9294e8478914444d5e99.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\4f\4f67422f7a2f9294e8478914444d5e99.info
+    projectPath: Library\metadata\4f\4f67422f7a2f9294e8478914444d5e99.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\54\54e637db2165a9d49b202e7f9e816d57
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\54\54e637db2165a9d49b202e7f9e816d57
+    projectPath: Library\metadata\54\54e637db2165a9d49b202e7f9e816d57
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\54\54e637db2165a9d49b202e7f9e816d57.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\54\54e637db2165a9d49b202e7f9e816d57.info
+    projectPath: Library\metadata\54\54e637db2165a9d49b202e7f9e816d57.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\54\54e637db2165a9d49b202e7f9e816d57.resource
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\54\54e637db2165a9d49b202e7f9e816d57.resource
+    projectPath: Library\metadata\54\54e637db2165a9d49b202e7f9e816d57.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\59\59d960e447d0b594bbe4cbbb067fa995
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\59\59d960e447d0b594bbe4cbbb067fa995
+    projectPath: Library\metadata\59\59d960e447d0b594bbe4cbbb067fa995
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\59\59d960e447d0b594bbe4cbbb067fa995.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\59\59d960e447d0b594bbe4cbbb067fa995.info
+    projectPath: Library\metadata\59\59d960e447d0b594bbe4cbbb067fa995.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\64\64cc298c39d68c942bbe4f391625f48b
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\64\64cc298c39d68c942bbe4f391625f48b
+    projectPath: Library\metadata\64\64cc298c39d68c942bbe4f391625f48b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\64\64cc298c39d68c942bbe4f391625f48b.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\64\64cc298c39d68c942bbe4f391625f48b.info
+    projectPath: Library\metadata\64\64cc298c39d68c942bbe4f391625f48b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\64\64d8f412e2ab4994286d4eda88937c0e
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\64\64d8f412e2ab4994286d4eda88937c0e
+    projectPath: Library\metadata\64\64d8f412e2ab4994286d4eda88937c0e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\64\64d8f412e2ab4994286d4eda88937c0e.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\64\64d8f412e2ab4994286d4eda88937c0e.info
+    projectPath: Library\metadata\64\64d8f412e2ab4994286d4eda88937c0e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\66\663483e1a1c7ecb46a149517d5a82217
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\66\663483e1a1c7ecb46a149517d5a82217
+    projectPath: Library\metadata\66\663483e1a1c7ecb46a149517d5a82217
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\66\663483e1a1c7ecb46a149517d5a82217.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\66\663483e1a1c7ecb46a149517d5a82217.info
+    projectPath: Library\metadata\66\663483e1a1c7ecb46a149517d5a82217.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\68\68c071c81698208459e8a1955443f42a
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\68\68c071c81698208459e8a1955443f42a
+    projectPath: Library\metadata\68\68c071c81698208459e8a1955443f42a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\68\68c071c81698208459e8a1955443f42a.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\68\68c071c81698208459e8a1955443f42a.info
+    projectPath: Library\metadata\68\68c071c81698208459e8a1955443f42a.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e
+    projectPath: Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e.info
+    projectPath: Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e.resource
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e.resource
+    projectPath: Library\metadata\6d\6d500eeed9f2a5849b283c64a10d112e.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\74\748aac6decbed4a41aea94f677c2292f
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\74\748aac6decbed4a41aea94f677c2292f
+    projectPath: Library\metadata\74\748aac6decbed4a41aea94f677c2292f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\74\748aac6decbed4a41aea94f677c2292f.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\74\748aac6decbed4a41aea94f677c2292f.info
+    projectPath: Library\metadata\74\748aac6decbed4a41aea94f677c2292f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\75\75f885e283b474342ad4e5c81504d54e
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\75\75f885e283b474342ad4e5c81504d54e
+    projectPath: Library\metadata\75\75f885e283b474342ad4e5c81504d54e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\75\75f885e283b474342ad4e5c81504d54e.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\75\75f885e283b474342ad4e5c81504d54e.info
+    projectPath: Library\metadata\75\75f885e283b474342ad4e5c81504d54e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\7936edc01c707e94b89d1c9c73114313
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\79\7936edc01c707e94b89d1c9c73114313
+    projectPath: Library\metadata\79\7936edc01c707e94b89d1c9c73114313
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\7936edc01c707e94b89d1c9c73114313.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\79\7936edc01c707e94b89d1c9c73114313.info
+    projectPath: Library\metadata\79\7936edc01c707e94b89d1c9c73114313.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7a\7aeffc0b168141f45827ad2f5bb09f34
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\7a\7aeffc0b168141f45827ad2f5bb09f34
+    projectPath: Library\metadata\7a\7aeffc0b168141f45827ad2f5bb09f34
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7a\7aeffc0b168141f45827ad2f5bb09f34.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\7a\7aeffc0b168141f45827ad2f5bb09f34.info
+    projectPath: Library\metadata\7a\7aeffc0b168141f45827ad2f5bb09f34.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7b\7bcc603e1d0a7f041a12ca0b3c3613ef
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\7b\7bcc603e1d0a7f041a12ca0b3c3613ef
+    projectPath: Library\metadata\7b\7bcc603e1d0a7f041a12ca0b3c3613ef
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7b\7bcc603e1d0a7f041a12ca0b3c3613ef.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\7b\7bcc603e1d0a7f041a12ca0b3c3613ef.info
+    projectPath: Library\metadata\7b\7bcc603e1d0a7f041a12ca0b3c3613ef.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    projectPath: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    projectPath: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\84\84c9d7200d76dba4d9ef8b239a146fe5
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\84\84c9d7200d76dba4d9ef8b239a146fe5
+    projectPath: Library\metadata\84\84c9d7200d76dba4d9ef8b239a146fe5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\84\84c9d7200d76dba4d9ef8b239a146fe5.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\84\84c9d7200d76dba4d9ef8b239a146fe5.info
+    projectPath: Library\metadata\84\84c9d7200d76dba4d9ef8b239a146fe5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\89\89030484636f0d64697df26d42b6bf18
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\89\89030484636f0d64697df26d42b6bf18
+    projectPath: Library\metadata\89\89030484636f0d64697df26d42b6bf18
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\89\89030484636f0d64697df26d42b6bf18.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\89\89030484636f0d64697df26d42b6bf18.info
+    projectPath: Library\metadata\89\89030484636f0d64697df26d42b6bf18.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\89\89030484636f0d64697df26d42b6bf18.resource
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\89\89030484636f0d64697df26d42b6bf18.resource
+    projectPath: Library\metadata\89\89030484636f0d64697df26d42b6bf18.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\8d\8dda7464af17e8c4c861f1d19e390432
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\8d\8dda7464af17e8c4c861f1d19e390432
+    projectPath: Library\metadata\8d\8dda7464af17e8c4c861f1d19e390432
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\8e\8e4886bc5453a3d4fb5ce8e26c1bb5e9
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\8e\8e4886bc5453a3d4fb5ce8e26c1bb5e9
+    projectPath: Library\metadata\8e\8e4886bc5453a3d4fb5ce8e26c1bb5e9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\9e\9eac0372ceca3ec4985d67e71924819d
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\9e\9eac0372ceca3ec4985d67e71924819d
+    projectPath: Library\metadata\9e\9eac0372ceca3ec4985d67e71924819d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\9e\9eac0372ceca3ec4985d67e71924819d.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\9e\9eac0372ceca3ec4985d67e71924819d.info
+    projectPath: Library\metadata\9e\9eac0372ceca3ec4985d67e71924819d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a9\a91218493b975fc44bbb9c02d901e377
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\a9\a91218493b975fc44bbb9c02d901e377
+    projectPath: Library\metadata\a9\a91218493b975fc44bbb9c02d901e377
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a9\a91218493b975fc44bbb9c02d901e377.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\a9\a91218493b975fc44bbb9c02d901e377.info
+    projectPath: Library\metadata\a9\a91218493b975fc44bbb9c02d901e377.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ad\ad1ee3e8aef3bd94eafbdb7c2376f847
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ad\ad1ee3e8aef3bd94eafbdb7c2376f847
+    projectPath: Library\metadata\ad\ad1ee3e8aef3bd94eafbdb7c2376f847
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ad\ad1ee3e8aef3bd94eafbdb7c2376f847.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ad\ad1ee3e8aef3bd94eafbdb7c2376f847.info
+    projectPath: Library\metadata\ad\ad1ee3e8aef3bd94eafbdb7c2376f847.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\af\af93489cec06af545b6465f1e85bde7a
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\af\af93489cec06af545b6465f1e85bde7a
+    projectPath: Library\metadata\af\af93489cec06af545b6465f1e85bde7a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\af\af93489cec06af545b6465f1e85bde7a.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\af\af93489cec06af545b6465f1e85bde7a.info
+    projectPath: Library\metadata\af\af93489cec06af545b6465f1e85bde7a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    projectPath: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    projectPath: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a
+    projectPath: Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a.info
+    projectPath: Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a.resource
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a.resource
+    projectPath: Library\metadata\bb\bbdbd6554f62f304bbfd40e091ba9d5a.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bf\bf86a5d101beb6e4a9efab32ea03f521
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\bf\bf86a5d101beb6e4a9efab32ea03f521
+    projectPath: Library\metadata\bf\bf86a5d101beb6e4a9efab32ea03f521
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\bf\bf86a5d101beb6e4a9efab32ea03f521.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\bf\bf86a5d101beb6e4a9efab32ea03f521.info
+    projectPath: Library\metadata\bf\bf86a5d101beb6e4a9efab32ea03f521.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\bf\bfe68152e3a844e419a0e8feaec26667
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\bf\bfe68152e3a844e419a0e8feaec26667
+    projectPath: Library\metadata\bf\bfe68152e3a844e419a0e8feaec26667
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bf\bfe68152e3a844e419a0e8feaec26667.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\bf\bfe68152e3a844e419a0e8feaec26667.info
+    projectPath: Library\metadata\bf\bfe68152e3a844e419a0e8feaec26667.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c2\c2010cb39d03693429b989f74540b34b
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\c2\c2010cb39d03693429b989f74540b34b
+    projectPath: Library\metadata\c2\c2010cb39d03693429b989f74540b34b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c2\c2010cb39d03693429b989f74540b34b.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\c2\c2010cb39d03693429b989f74540b34b.info
+    projectPath: Library\metadata\c2\c2010cb39d03693429b989f74540b34b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c2\c26709dec280bbd44a3cae8c01e72843
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\c2\c26709dec280bbd44a3cae8c01e72843
+    projectPath: Library\metadata\c2\c26709dec280bbd44a3cae8c01e72843
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c2\c26709dec280bbd44a3cae8c01e72843.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\c2\c26709dec280bbd44a3cae8c01e72843.info
+    projectPath: Library\metadata\c2\c26709dec280bbd44a3cae8c01e72843.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c8\c858a4b30459bbf4083af2a29dbdb152
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\c8\c858a4b30459bbf4083af2a29dbdb152
+    projectPath: Library\metadata\c8\c858a4b30459bbf4083af2a29dbdb152
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c8\c858a4b30459bbf4083af2a29dbdb152.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\c8\c858a4b30459bbf4083af2a29dbdb152.info
+    projectPath: Library\metadata\c8\c858a4b30459bbf4083af2a29dbdb152.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    projectPath: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    projectPath: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ce\ce170a2913e76f84b8714be87d76a47f
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ce\ce170a2913e76f84b8714be87d76a47f
+    projectPath: Library\metadata\ce\ce170a2913e76f84b8714be87d76a47f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ce\ce170a2913e76f84b8714be87d76a47f.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ce\ce170a2913e76f84b8714be87d76a47f.info
+    projectPath: Library\metadata\ce\ce170a2913e76f84b8714be87d76a47f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d1\d1ad3d1f0658bef4c8dc744667cf3b30
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\d1\d1ad3d1f0658bef4c8dc744667cf3b30
+    projectPath: Library\metadata\d1\d1ad3d1f0658bef4c8dc744667cf3b30
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d1\d1ad3d1f0658bef4c8dc744667cf3b30.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\d1\d1ad3d1f0658bef4c8dc744667cf3b30.info
+    projectPath: Library\metadata\d1\d1ad3d1f0658bef4c8dc744667cf3b30.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d4\d48af9b93d4bec744885ebeea6400273
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\d4\d48af9b93d4bec744885ebeea6400273
+    projectPath: Library\metadata\d4\d48af9b93d4bec744885ebeea6400273
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d4\d48af9b93d4bec744885ebeea6400273.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\d4\d48af9b93d4bec744885ebeea6400273.info
+    projectPath: Library\metadata\d4\d48af9b93d4bec744885ebeea6400273.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d6195237189ee034dba27490c8e5b2ce
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\d6\d6195237189ee034dba27490c8e5b2ce
+    projectPath: Library\metadata\d6\d6195237189ee034dba27490c8e5b2ce
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d8\d85660e6095244b40aaf7195636af61d
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\d8\d85660e6095244b40aaf7195636af61d
+    projectPath: Library\metadata\d8\d85660e6095244b40aaf7195636af61d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    projectPath: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    projectPath: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\da\dac95903241c49a47ac231476f331817
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\da\dac95903241c49a47ac231476f331817
+    projectPath: Library\metadata\da\dac95903241c49a47ac231476f331817
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\de\de3f49ec0deb8e44781474364623c1b6
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\de\de3f49ec0deb8e44781474364623c1b6
+    projectPath: Library\metadata\de\de3f49ec0deb8e44781474364623c1b6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\de\de3f49ec0deb8e44781474364623c1b6.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\de\de3f49ec0deb8e44781474364623c1b6.info
+    projectPath: Library\metadata\de\de3f49ec0deb8e44781474364623c1b6.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\df\df54d45cb2780814bb93c38e70400dd7
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\df\df54d45cb2780814bb93c38e70400dd7
+    projectPath: Library\metadata\df\df54d45cb2780814bb93c38e70400dd7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8
+    projectPath: Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8.info
+    projectPath: Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8.resource
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8.resource
+    projectPath: Library\metadata\e8\e80cf8a41128b1743a821688bb2758a8.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e9\e97aacdeb363b6d40b321e17794b64e3
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\e9\e97aacdeb363b6d40b321e17794b64e3
+    projectPath: Library\metadata\e9\e97aacdeb363b6d40b321e17794b64e3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e9\e97aacdeb363b6d40b321e17794b64e3.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\e9\e97aacdeb363b6d40b321e17794b64e3.info
+    projectPath: Library\metadata\e9\e97aacdeb363b6d40b321e17794b64e3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ea\ead7779dfee252f46960cc78d3992456
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ea\ead7779dfee252f46960cc78d3992456
+    projectPath: Library\metadata\ea\ead7779dfee252f46960cc78d3992456
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ee\eef211fa07a4767438275a33a5c16f37
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ee\eef211fa07a4767438275a33a5c16f37
+    projectPath: Library\metadata\ee\eef211fa07a4767438275a33a5c16f37
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ee\eef211fa07a4767438275a33a5c16f37.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ee\eef211fa07a4767438275a33a5c16f37.info
+    projectPath: Library\metadata\ee\eef211fa07a4767438275a33a5c16f37.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ee\eef211fa07a4767438275a33a5c16f37.resource
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ee\eef211fa07a4767438275a33a5c16f37.resource
+    projectPath: Library\metadata\ee\eef211fa07a4767438275a33a5c16f37.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ee\eefd2f12c1167964dbdf14ca869df39a
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ee\eefd2f12c1167964dbdf14ca869df39a
+    projectPath: Library\metadata\ee\eefd2f12c1167964dbdf14ca869df39a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ee\eefd2f12c1167964dbdf14ca869df39a.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\ee\eefd2f12c1167964dbdf14ca869df39a.info
+    projectPath: Library\metadata\ee\eefd2f12c1167964dbdf14ca869df39a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f0\f043568cff1b07246accee427b6801ba
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\f0\f043568cff1b07246accee427b6801ba
+    projectPath: Library\metadata\f0\f043568cff1b07246accee427b6801ba
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f0\f043568cff1b07246accee427b6801ba.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\f0\f043568cff1b07246accee427b6801ba.info
+    projectPath: Library\metadata\f0\f043568cff1b07246accee427b6801ba.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f0\f07fe18d5f18a4340a492cd19e000c35
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\f0\f07fe18d5f18a4340a492cd19e000c35
+    projectPath: Library\metadata\f0\f07fe18d5f18a4340a492cd19e000c35
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f0\f07fe18d5f18a4340a492cd19e000c35.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\f0\f07fe18d5f18a4340a492cd19e000c35.info
+    projectPath: Library\metadata\f0\f07fe18d5f18a4340a492cd19e000c35.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    projectPath: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    projectPath: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe7bdbdb6d113d84c966cbe3447b5a3c
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\fe\fe7bdbdb6d113d84c966cbe3447b5a3c
+    projectPath: Library\metadata\fe\fe7bdbdb6d113d84c966cbe3447b5a3c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe7bdbdb6d113d84c966cbe3447b5a3c.info
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\metadata\fe\fe7bdbdb6d113d84c966cbe3447b5a3c.info
+    projectPath: Library\metadata\fe\fe7bdbdb6d113d84c966cbe3447b5a3c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache\1\1a0c3d1c3e6397f3306515d311941cf5.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\1\1a0c3d1c3e6397f3306515d311941cf5.bin
+    projectPath: Library\ShaderCache\1\1a0c3d1c3e6397f3306515d311941cf5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\1a0c70b29a266920be6e972bfa5be7c7.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\1\1a0c70b29a266920be6e972bfa5be7c7.bin
+    projectPath: Library\ShaderCache\1\1a0c70b29a266920be6e972bfa5be7c7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\1c209baf44edd79ee33d2d6e22e10c88.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\1\1c209baf44edd79ee33d2d6e22e10c88.bin
+    projectPath: Library\ShaderCache\1\1c209baf44edd79ee33d2d6e22e10c88.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\1fa755eec1e06f22d24cb4d65a167d08.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\1\1fa755eec1e06f22d24cb4d65a167d08.bin
+    projectPath: Library\ShaderCache\1\1fa755eec1e06f22d24cb4d65a167d08.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\2\2a7360b8edfd5952fb7ccd2bd481c8d3.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\2\2a7360b8edfd5952fb7ccd2bd481c8d3.bin
+    projectPath: Library\ShaderCache\2\2a7360b8edfd5952fb7ccd2bd481c8d3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\5927e8c2091155f2fb8303d7802958c1.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\5\5927e8c2091155f2fb8303d7802958c1.bin
+    projectPath: Library\ShaderCache\5\5927e8c2091155f2fb8303d7802958c1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\634f4b26f13ce6e6bae77d9176ff074e.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\6\634f4b26f13ce6e6bae77d9176ff074e.bin
+    projectPath: Library\ShaderCache\6\634f4b26f13ce6e6bae77d9176ff074e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6a5feef082de0ae94b38195800b5c2a0.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\6\6a5feef082de0ae94b38195800b5c2a0.bin
+    projectPath: Library\ShaderCache\6\6a5feef082de0ae94b38195800b5c2a0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    projectPath: Library\ShaderCache\6\6f328c757019a91903cfae9f638ad3f6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7adad53950faa64fea804f352756dd48.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\7\7adad53950faa64fea804f352756dd48.bin
+    projectPath: Library\ShaderCache\7\7adad53950faa64fea804f352756dd48.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\88807e21176ae26f6d99594006e80969.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\8\88807e21176ae26f6d99594006e80969.bin
+    projectPath: Library\ShaderCache\8\88807e21176ae26f6d99594006e80969.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\987b52bb885bf717433c9f4c8a573764.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\9\987b52bb885bf717433c9f4c8a573764.bin
+    projectPath: Library\ShaderCache\9\987b52bb885bf717433c9f4c8a573764.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b81f8cf5b8fe76b5f6fa5c5b9baae9bd.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\b\b81f8cf5b8fe76b5f6fa5c5b9baae9bd.bin
+    projectPath: Library\ShaderCache\b\b81f8cf5b8fe76b5f6fa5c5b9baae9bd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b82c07c18e0226bc0e6cbd5bfeda28a8.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\b\b82c07c18e0226bc0e6cbd5bfeda28a8.bin
+    projectPath: Library\ShaderCache\b\b82c07c18e0226bc0e6cbd5bfeda28a8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\bd03733fdb9e91ef04acf00f03d282df.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\b\bd03733fdb9e91ef04acf00f03d282df.bin
+    projectPath: Library\ShaderCache\b\bd03733fdb9e91ef04acf00f03d282df.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c45042c75cd8e7ab2bd244e490b28157.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\c\c45042c75cd8e7ab2bd244e490b28157.bin
+    projectPath: Library\ShaderCache\c\c45042c75cd8e7ab2bd244e490b28157.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c61d82ddafc8641c54e180cda291445b.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\c\c61d82ddafc8641c54e180cda291445b.bin
+    projectPath: Library\ShaderCache\c\c61d82ddafc8641c54e180cda291445b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\cf341b831053d81ffa801be374a607b1.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\c\cf341b831053d81ffa801be374a607b1.bin
+    projectPath: Library\ShaderCache\c\cf341b831053d81ffa801be374a607b1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d11f31b191a6e79aeb798aa211417009.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\d\d11f31b191a6e79aeb798aa211417009.bin
+    projectPath: Library\ShaderCache\d\d11f31b191a6e79aeb798aa211417009.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d2c2a6cc60409639e91868bf7f573ebf.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\d\d2c2a6cc60409639e91868bf7f573ebf.bin
+    projectPath: Library\ShaderCache\d\d2c2a6cc60409639e91868bf7f573ebf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d43fc724d4f8331ff126bf1be4677cc2.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\d\d43fc724d4f8331ff126bf1be4677cc2.bin
+    projectPath: Library\ShaderCache\d\d43fc724d4f8331ff126bf1be4677cc2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d7c8ecc9bb97fe104a5fd22e5ac38b15.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\d\d7c8ecc9bb97fe104a5fd22e5ac38b15.bin
+    projectPath: Library\ShaderCache\d\d7c8ecc9bb97fe104a5fd22e5ac38b15.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\dcf9788ba06d926e23977277587a236b.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\d\dcf9788ba06d926e23977277587a236b.bin
+    projectPath: Library\ShaderCache\d\dcf9788ba06d926e23977277587a236b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\e0c64ae8a1ec187051cf66f6403db0d9.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\e\e0c64ae8a1ec187051cf66f6403db0d9.bin
+    projectPath: Library\ShaderCache\e\e0c64ae8a1ec187051cf66f6403db0d9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\e12b4f0354ef10373fa4ae96155bb1e5.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\e\e12b4f0354ef10373fa4ae96155bb1e5.bin
+    projectPath: Library\ShaderCache\e\e12b4f0354ef10373fa4ae96155bb1e5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\ea24e589059787aca9926b665031d735.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\e\ea24e589059787aca9926b665031d735.bin
+    projectPath: Library\ShaderCache\e\ea24e589059787aca9926b665031d735.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f0bce44555682cf86499422619ee76d3.bin
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\ShaderCache\f\f0bce44555682cf86499422619ee76d3.bin
+    projectPath: Library\ShaderCache\f\f0bce44555682cf86499422619ee76d3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\48fb7f-0448d1ab8ce26ec43b.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\Hierarchy\48fb7f-0448d1ab8ce26ec43b.json
+    projectPath: Library\StateCache\Hierarchy\48fb7f-0448d1ab8ce26ec43b.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\48fb7f-05f40fced6ffd814ea.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\Hierarchy\48fb7f-05f40fced6ffd814ea.json
+    projectPath: Library\StateCache\Hierarchy\48fb7f-05f40fced6ffd814ea.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\48fb7f-1e98349a6555b12408.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\Hierarchy\48fb7f-1e98349a6555b12408.json
+    projectPath: Library\StateCache\Hierarchy\48fb7f-1e98349a6555b12408.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\48fb7f-3fa0a4429d529ce40a.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\Hierarchy\48fb7f-3fa0a4429d529ce40a.json
+    projectPath: Library\StateCache\Hierarchy\48fb7f-3fa0a4429d529ce40a.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\48fb7f-bf86a5d101beb6e4a9.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\Hierarchy\48fb7f-bf86a5d101beb6e4a9.json
+    projectPath: Library\StateCache\Hierarchy\48fb7f-bf86a5d101beb6e4a9.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\48fb7f-c7e94f898b390174e8.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\Hierarchy\48fb7f-c7e94f898b390174e8.json
+    projectPath: Library\StateCache\Hierarchy\48fb7f-c7e94f898b390174e8.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\48fb7f-ce170a2913e76f84b8.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\Hierarchy\48fb7f-ce170a2913e76f84b8.json
+    projectPath: Library\StateCache\Hierarchy\48fb7f-ce170a2913e76f84b8.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\48fb7f-mainStage.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\Hierarchy\48fb7f-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\48fb7f-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-0448d1ab8ce26ec43b.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-0448d1ab8ce26ec43b.json
+    projectPath: Library\StateCache\SceneView\f07ad0-0448d1ab8ce26ec43b.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-05f40fced6ffd814ea.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-05f40fced6ffd814ea.json
+    projectPath: Library\StateCache\SceneView\f07ad0-05f40fced6ffd814ea.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-1e98349a6555b12408.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-1e98349a6555b12408.json
+    projectPath: Library\StateCache\SceneView\f07ad0-1e98349a6555b12408.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-3fa0a4429d529ce40a.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-3fa0a4429d529ce40a.json
+    projectPath: Library\StateCache\SceneView\f07ad0-3fa0a4429d529ce40a.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-68c071c81698208459.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-68c071c81698208459.json
+    projectPath: Library\StateCache\SceneView\f07ad0-68c071c81698208459.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-bf86a5d101beb6e4a9.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-bf86a5d101beb6e4a9.json
+    projectPath: Library\StateCache\SceneView\f07ad0-bf86a5d101beb6e4a9.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-c7e94f898b390174e8.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-c7e94f898b390174e8.json
+    projectPath: Library\StateCache\SceneView\f07ad0-c7e94f898b390174e8.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-ce170a2913e76f84b8.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-ce170a2913e76f84b8.json
+    projectPath: Library\StateCache\SceneView\f07ad0-ce170a2913e76f84b8.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\f07ad0-mainStage.json
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Library\StateCache\SceneView\f07ad0-mainStage.json
+    projectPath: Library\StateCache\SceneView\f07ad0-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\InputManager.asset
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+    projectPath: Temp\ProcessJobs\1f068db059d5cf0261a3b566803bc6c6.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\ProcessJobs\bcc7e87fb67d4a4877299dc907268347.bakert
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\ProcessJobs\bcc7e87fb67d4a4877299dc907268347.bakert
+    projectPath: Temp\ProcessJobs\bcc7e87fb67d4a4877299dc907268347.bakert
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-15e33719a98cc184ea344099cbd436cc
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-15e33719a98cc184ea344099cbd436cc
+    projectPath: Temp\UnityTempFile-15e33719a98cc184ea344099cbd436cc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1a7571ab478577d42ae40a8858fb517c
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-1a7571ab478577d42ae40a8858fb517c
+    projectPath: Temp\UnityTempFile-1a7571ab478577d42ae40a8858fb517c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1bdcd4dd3ce5ea24bb56c6b299cd7b62
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-1bdcd4dd3ce5ea24bb56c6b299cd7b62
+    projectPath: Temp\UnityTempFile-1bdcd4dd3ce5ea24bb56c6b299cd7b62
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-39382a12d07d5a842995cdc552e30bb0
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-39382a12d07d5a842995cdc552e30bb0
+    projectPath: Temp\UnityTempFile-39382a12d07d5a842995cdc552e30bb0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3c06523a1b49cca41a2b3e9644272bc7
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-3c06523a1b49cca41a2b3e9644272bc7
+    projectPath: Temp\UnityTempFile-3c06523a1b49cca41a2b3e9644272bc7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3d09e59a7d105cd4fb2288bdfd64edd6
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-3d09e59a7d105cd4fb2288bdfd64edd6
+    projectPath: Temp\UnityTempFile-3d09e59a7d105cd4fb2288bdfd64edd6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-485458c6e08c7d042b563914abea59bf
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-485458c6e08c7d042b563914abea59bf
+    projectPath: Temp\UnityTempFile-485458c6e08c7d042b563914abea59bf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5928632d44bd0894881846dd9f8f6b36
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-5928632d44bd0894881846dd9f8f6b36
+    projectPath: Temp\UnityTempFile-5928632d44bd0894881846dd9f8f6b36
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5968c9b1247e9e44faef447b1f995c0c
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-5968c9b1247e9e44faef447b1f995c0c
+    projectPath: Temp\UnityTempFile-5968c9b1247e9e44faef447b1f995c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-637a2a500a43b714aa02fbad6435b598
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-637a2a500a43b714aa02fbad6435b598
+    projectPath: Temp\UnityTempFile-637a2a500a43b714aa02fbad6435b598
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-75caaaba82bc83040bba81e1edc54a5b
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-75caaaba82bc83040bba81e1edc54a5b
+    projectPath: Temp\UnityTempFile-75caaaba82bc83040bba81e1edc54a5b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-84dde15e406a5e643b77d086608b90c8
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-84dde15e406a5e643b77d086608b90c8
+    projectPath: Temp\UnityTempFile-84dde15e406a5e643b77d086608b90c8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8917e009fe3bab24780072c98d503743
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-8917e009fe3bab24780072c98d503743
+    projectPath: Temp\UnityTempFile-8917e009fe3bab24780072c98d503743
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a26f74675b7fec949b9fe68754ebaded
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-a26f74675b7fec949b9fe68754ebaded
+    projectPath: Temp\UnityTempFile-a26f74675b7fec949b9fe68754ebaded
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-acb0c7608c79be240b1571befde69fcd
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-acb0c7608c79be240b1571befde69fcd
+    projectPath: Temp\UnityTempFile-acb0c7608c79be240b1571befde69fcd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b6a124a71e9f39444b669ade0cc3ba5e
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-b6a124a71e9f39444b669ade0cc3ba5e
+    projectPath: Temp\UnityTempFile-b6a124a71e9f39444b669ade0cc3ba5e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b7c2e4418cdb2a44482fd2147542cd48
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-b7c2e4418cdb2a44482fd2147542cd48
+    projectPath: Temp\UnityTempFile-b7c2e4418cdb2a44482fd2147542cd48
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bb853221b01c65a48bd35818cad0d007
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-bb853221b01c65a48bd35818cad0d007
+    projectPath: Temp\UnityTempFile-bb853221b01c65a48bd35818cad0d007
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c12b05e2a57871a43b2fd9695ed2ca73
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-c12b05e2a57871a43b2fd9695ed2ca73
+    projectPath: Temp\UnityTempFile-c12b05e2a57871a43b2fd9695ed2ca73
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c1b8846ec1ca86a4d9c17843fc217797
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-c1b8846ec1ca86a4d9c17843fc217797
+    projectPath: Temp\UnityTempFile-c1b8846ec1ca86a4d9c17843fc217797
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c29d82e9a0a4f9c47a778aa5925043a8
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-c29d82e9a0a4f9c47a778aa5925043a8
+    projectPath: Temp\UnityTempFile-c29d82e9a0a4f9c47a778aa5925043a8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c4c295d42741f2f449f404bcd9dc7e59
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-c4c295d42741f2f449f404bcd9dc7e59
+    projectPath: Temp\UnityTempFile-c4c295d42741f2f449f404bcd9dc7e59
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cd09c52a0120bd3428dfc2c67c700e37
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-cd09c52a0120bd3428dfc2c67c700e37
+    projectPath: Temp\UnityTempFile-cd09c52a0120bd3428dfc2c67c700e37
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d615b113bfa4108449c741d7aa292ddb
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-d615b113bfa4108449c741d7aa292ddb
+    projectPath: Temp\UnityTempFile-d615b113bfa4108449c741d7aa292ddb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-dc3062f4d0e2da24f8a03ede4120eb0c
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-dc3062f4d0e2da24f8a03ede4120eb0c
+    projectPath: Temp\UnityTempFile-dc3062f4d0e2da24f8a03ede4120eb0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e0189b6e48d3f9f47ac1a30793e36f4e
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-e0189b6e48d3f9f47ac1a30793e36f4e
+    projectPath: Temp\UnityTempFile-e0189b6e48d3f9f47ac1a30793e36f4e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e93468d055704c84d8210b7c811ddedc
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-e93468d055704c84d8210b7c811ddedc
+    projectPath: Temp\UnityTempFile-e93468d055704c84d8210b7c811ddedc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f38b9d82986027b49b31b5d05d3e8088
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-f38b9d82986027b49b31b5d05d3e8088
+    projectPath: Temp\UnityTempFile-f38b9d82986027b49b31b5d05d3e8088
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f5630254f2c933d4e8745fff3e1fa9cd
+    fullPath: E:\NOLFFeverDream\NOLF Fever Dream\Temp\UnityTempFile-f5630254f2c933d4e8745fff3e1fa9cd
+    projectPath: Temp\UnityTempFile-f5630254f2c933d4e8745fff3e1fa9cd
+    originalPath: 
+    status: 1
+    staged: 0
